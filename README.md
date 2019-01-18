@@ -25,8 +25,9 @@ it will start searching picture from web(e.g. google+nyaa[more comming up])
 並把圖片下載到指定的資料夾內。
 Image will now start downloading into your GalGame directory folder.
 
-Loaded List:會顯示你已經載入的資料夾/圖片列表。
-Loaded List: after you have set your directory it will update the list to let user double check if it got the right directory.
-config: 你可以在config裡設置你的預設路徑，方便下次使用。
-config: If you are doing mutible file you can set the defalt directory location here so that you don't have to go over the whole pc again.
+Loaded List:會顯示你已經載入的資料夾/圖片列表。  
+Loaded List: after you have set your directory it will update the list to let user double check if it got the right directory.  
+config: 你可以在config裡設置你的預設路徑，方便下次使用。  
+config: If you are doing mutible file you can set the defalt directory location here so that you don't have to go over the whole pc again.  
+
 
