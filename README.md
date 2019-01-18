@@ -1,25 +1,25 @@
 # GalGame_picture_grab
-紳士遊戲圖片下載器
+紳士遊戲圖片下載器  
 
 ![alt text](https://imgur.com/hehojuz.jpg)
 
 把遊戲資料夾設定好後就能夠自動幫你下載相關圖片，對於整理資料夾非常方便
 Set a directory of Galgame and it will start searching for it's image. This is helpful when you have to organize those game.
 
-用法：
+用法：  
 Get start:  
 
-首先把遊戲資料夾設置好。
+首先把遊戲資料夾設置好。  
 First choose your GalGame directory:  
 ![alt text](https://imgur.com/byeQGPG.jpg)
 請確保遊戲資料夾/檔案的名字是正確的，因為下載器會用該名字進行搜索。
 (make sure the name in directory is correctly cos it use it as reference)
 
-按開始
+按開始  
 Press start  
 ![alt text](https://imgur.com/tSI1saz.jpg)
 
-系統會開始在網上檢索圖片。
+系統會開始在網上檢索圖片。  
 it will start searching picture from web(e.g. google+nyaa[more comming up])
 
 並把圖片下載到指定的資料夾內。
