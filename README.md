@@ -8,7 +8,7 @@ First choose your GalGame directory:
 (make sure the name in directory is correctly cos it use it as reference)
 
 Press start  
-![alt text](https://imgur.com/byeQGPG.jpg)
+![alt text](https://imgur.com/tSI1saz.jpg)
 it will search picture from web(e.g. google+nyaa[more comming up])
 
 Image will now start downloading into your GalGame directory folder.
